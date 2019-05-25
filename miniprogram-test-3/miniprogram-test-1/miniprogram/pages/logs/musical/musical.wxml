@@ -1,0 +1,23 @@
+<!--pages/musical/musical.wxml-->
+<view class='Musical'>
+    <view class='Musical_1'>
+        <image src="{{image1}}"></image>
+        <view class='Musical_1_1'>{{text_title1}} </view>
+        <view class='Musical_1_2'>{{text1}}</view>
+    </view>
+    <view class='Musical_1'>
+        <image src="{{image2}}"></image>
+        <view class='Musical_1_1'>{{text_title2}}</view>
+        <view class='Musical_1_2'>{{text2}}</view>
+    </view>
+    <view class='Musical_1'>
+        <image src="{{image3}}"></image>
+        <view class='Musical_1_1'>{{text_title3}}</view>
+        <view class='Musical_1_2'>{{text3}}</view>
+    </view>
+    <view class='Musical_1'>
+        <image src="{{image4}}"></image>
+        <view class='Musical_1_1'>{{text_title4}}</view>
+        <view class='Musical_1_2'>{{text4}}</view>
+    </view>
+</view>

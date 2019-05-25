@@ -1,0 +1,28 @@
+{
+    "usingComponents": {},
+    "navigationBarTitleText": "民族习俗",
+    "tabBar": {
+      "selectedColor": "#D63014",
+      "list": [
+        {
+          "pagePath": "../index/index",
+          "text": "主页",
+          "selectedIconPath": "../images/HomePage.png",
+          "iconPath": "../images/HomePage2.png"
+        },
+        {
+          "pagePath": "../quan/quan",
+          "text": "圈子",
+          "selectedIconPath": "../images/Circle.png",
+          "iconPath": "../images/Circle2.png"
+        },
+        {
+          "pagePath": "../my/my",
+          "text": "我的",
+          "selectedIconPath": "../images/mine2.png",
+          "iconPath": "../images/mine.png"
+        }
+      ]
+    }
+    
+}
