@@ -14,5 +14,5 @@
 （1）熟悉了小程序开发的流程，对于常用组件的使用了熟于心。
 4.效果图
 =======
-<img src="images/1.jpg" width="420" height="450">  <img src="images/2.jpg" width="420" height="450">  
-<img src="images/3.jpg" width="420" height="450">  <img src="images/4.jpg" width="420" height="450">  
+<img src="images/1.jpg" width="420" height="470">  <img src="images/2.jpg" width="420" height="470">  
+<img src="images/3.jpg" width="420" height="470">  <img src="images/4.jpg" width="420" height="470">  
